@@ -120,5 +120,4 @@ export class CommonConstants {
    * 当前用户推荐的每日摄入脂肪上限，单位：克
    */
   static readonly RECOMMEND_FAT: number = 53
-
 }
